@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔨 Once I've used 🔨
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div align="center">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div style="display: flex; justify-content: center; gap: 10px;">
