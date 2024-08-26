@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 
 ## 🧿 Project 🧿
 <p><strong> 🙋‍♀️ django_project01 : Traval_dog --Travel Schedule Management</strong></p>
+https://github.com/someday486/Travel-Dog.git
 
 <p><strong>🙋‍♀️ django_project02 : MUSI --All about the Musical</strong></p><br>
 
