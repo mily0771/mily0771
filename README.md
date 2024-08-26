@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <p>https://github.com/someday486/Travel-Dog.git</p>
 
 <p><strong>🙋‍♀️ django_project02 : MUSI --All about the Musical</strong></p><br>
-<p></p>
+<p>https://github.com/khn5906/MUSI.git</p>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
