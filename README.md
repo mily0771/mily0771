@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔨 Once I've used 🔨
+### 💻 Tech Stack 💻
 <div align="center">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -47,10 +47,18 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
-    <!-- Others -->
-    <p><strong>Others</strong></p>
+    <!-- Statistical Analysis -->    
+    <p><strong>Statistical Analysis</strong></p>
     <div style="display: flex; justify-content: center; gap: 10px;">
-        <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
+        <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
+        <img src="https://img.shields.io/badge/SPSS-FD283C?style=for-the-badge&logo=spss&logoColor=white">       
+        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+    </div>
+    <!-- Others -->    
+    <p><strong>Others</strong></p>
+    <div style="display: flex; justify-content: center; gap: 10px;">        
+        <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">        
+        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
     </div>
 </div>
 
