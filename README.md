@@ -54,6 +54,12 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/SPSS-FD283C?style=for-the-badge&logo=spss&logoColor=white">       
         <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
     </div>
+    <!-- Machine Learning -->    
+    <p><strong>Machine Learning</strong></p>
+    <div style="display: flex; justify-content: center; gap: 10px;">        
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">        
+        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    </div>
     <!-- Others -->    
     <p><strong>Others</strong></p>
     <div style="display: flex; justify-content: center; gap: 10px;">        
