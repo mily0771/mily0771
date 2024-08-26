@@ -1,7 +1,5 @@
 
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Mily&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Here%20are%20some%20ideas%20to%20get%20you%20started&descAlignY=70)
-
-
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=FCE29A&text=Mily&Color=white&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Here%20are%20some%20ideas%20to%20get%20you%20started&descAlignY=70)
 <!--
 **mily0771/mily0771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
