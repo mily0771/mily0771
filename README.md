@@ -59,9 +59,10 @@ Here are some ideas to get you started:
 
 ## 🧿 Project 🧿
 <p><strong> 🙋‍♀️ django_project01 : Traval_dog --Travel Schedule Management</strong></p>
-https://github.com/someday486/Travel-Dog.git
+<p>https://github.com/someday486/Travel-Dog.git</p>
 
 <p><strong>🙋‍♀️ django_project02 : MUSI --All about the Musical</strong></p><br>
+<p></p>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -76,4 +77,6 @@ https://github.com/someday486/Travel-Dog.git
     </a><br>
 </div>
 
-<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=mily077)-->
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=khn5906&theme=vue&show_icons=true"/></a>
+</p>
