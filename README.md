@@ -52,7 +52,6 @@ Here are some ideas to get you started:
     <div style="display: flex; justify-content: center; gap: 10px;">
         <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
         <img src="https://img.shields.io/badge/SPSS-FD283C?style=for-the-badge&logo=spss&logoColor=white">       
-        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
     </div>
     <!-- Machine Learning -->    
     <p><strong>Machine Learning</strong></p>
@@ -76,8 +75,8 @@ Here are some ideas to get you started:
 <p><strong> 🙋‍♀️ django_project01 : Traval_dog --Travel Schedule Management</strong></p>
 <p>https://github.com/someday486/Travel-Dog.git</p>
 
-<p><strong>🙋‍♀️ django_project02 : MUSI --All about the Musical</strong></p><br>
-<p>https://github.com/khn5906/MUSI.git</p>
+<p><strong>🙋‍♀️ django_project02 : MUSI --All about the Musical</strong></p>
+<p>https://github.com/khn5906/MUSI.git</p><br>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
