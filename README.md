@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <p><strong> 🙋‍♀️ django_project01 : Traval_dog --Travel Schedule Management</strong></p>
 <p>https://github.com/someday486/Travel-Dog.git</p>
 
-<p><strong>🙋‍♀️ django_project02 : MUSI --All about the Musical</strong></p>
+<p><strong>🙋‍♀️ django_project02 : MUSI --Everything about Musicals</strong></p>
 <p>https://github.com/khn5906/MUSI.git</p><br>
 
 ## 📞 Contact 📞
