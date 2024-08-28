@@ -76,6 +76,9 @@ Here are some ideas to get you started:
 <p><strong>🙋‍♀️ django_project02 : MUSI --Everything about Musicals</strong></p>
 <p>https://github.com/khn5906/MUSI.git</p><br>
 
+## ❤ Read ME ❤
+<p><a href="https://github.com/mily0771/portfolio">[Readme components]</p>
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:milymellow077@gmail.com">
