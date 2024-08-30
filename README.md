@@ -24,11 +24,11 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </div>
     <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div style="display: flex; justify-content: center; gap: 10px;">
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    </div>
+<!--     <p><strong>Database</strong></p> -->
+<!--     <div style="display: flex; justify-content: center; gap: 10px;"> -->
+<!--         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  -->
+<!--         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  -->
+<!--     </div> -->
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div style="display: flex; justify-content: center; gap: 10px;">
