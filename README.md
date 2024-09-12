@@ -66,11 +66,11 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black">
     </div>
     <!-- Others -->    
-    <p><strong>Others</strong></p>
+<!--     <p><strong>Others</strong></p>
     <div style="display: flex; justify-content: center; gap: 10px;">        
         <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">        
         <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-    </div>
+    </div> -->
 </div>
 
 
