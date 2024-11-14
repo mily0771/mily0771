@@ -77,11 +77,16 @@ Here are some ideas to get you started:
 
 
 ## 🧿 Project 🧿
-<p><strong> 🙋‍♀️ Traval_dog --Travel Schedule Management</strong></p>
-<p>https://github.com/someday486/Travel-Dog.git</p>
+<p><strong> 🙋‍♀️ Traval_dog --A travel schedule management tool designed for organizing trips effortlessly.</strong></p>
+<p>https://github.com/someday486/Travel-Dog.git</p><br>
 
-<p><strong>🙋‍♀️ MUSI --Everything about Musicals</strong></p>
+<p><strong>🙋‍♀️ MUSI --A platform offering comprehensive information on musicals, from reviews to recommendations.</strong></p>
 <p>https://github.com/khn5906/MUSI.git</p><br>
+
+<p><strong>🙋‍♀️ chatLANDI --A chatbot dedicated to handling public complaints efficiently.</strong></p>
+<p>https://gitlab.com/landimark/chatlandi.git</p><br>
+
+
 
 ## ❤ Read ME ❤
 <p><a href="https://github.com/mily0771/portfolio">[Readme components]</p>
