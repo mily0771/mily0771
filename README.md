@@ -1,6 +1,6 @@
 <div align="center">
     
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=FCE29A&text=Mily&Color=white&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Here%20are%20some%20ideas%20to%20get%20you%20started&descAlignY=70)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=FCE29A&text=Mily&Color=white&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=A%20talent%20with%20emotion%20and%20intelligence.&descAlignY=70)
 
 </div>
 
