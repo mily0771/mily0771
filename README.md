@@ -73,13 +73,11 @@
 
 ### 🙋‍♀️ **MUSI**
 *A platform offering comprehensive information on musicals, from reviews to recommendations.*  
-🔗 [GitHub Repository](https://github.com/khn5906/MUSI.git)  
-📄 [Presentation (PPT)](https://www.miricanvas.com/v/13ke016)
+🔗 [GitHub Repository](https://github.com/khn5906/MUSI.git)  📄 [Presentation (PPT)](https://www.miricanvas.com/v/13ke016)
 
 ### 🙋‍♀️ **chatLANDI**
 *A chatbot dedicated to handling public complaints efficiently.*  
-🔗 [GitLab Repository](https://gitlab.com/landimark/chatlandi.git)
-
+🔗 [GitLab Repository](https://gitlab.com/landimark/chatlandi.git) 📄 [Presentation (PPT)](https://www.miricanvas.com/v/13q0rs7)
 
 
 
