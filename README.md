@@ -66,14 +66,20 @@
 
 
 ## 🧿 Project 🧿
-<p><strong> 🙋‍♀️ Traval_dog --A travel schedule management tool designed for organizing trips effortlessly.</strong></p>
-<p>https://github.com/someday486/Travel-Dog.git</p><br>
 
-<p><strong>🙋‍♀️ MUSI --A platform offering comprehensive information on musicals, from reviews to recommendations.</strong></p>
-<p>https://github.com/khn5906/MUSI.git</p><br>
+### 🙋‍♀️ **Traval_dog**
+*A travel schedule management tool designed for organizing trips effortlessly.*  
+🔗 [GitHub Repository](https://github.com/someday486/Travel-Dog.git)
 
-<p><strong>🙋‍♀️ chatLANDI --A chatbot dedicated to handling public complaints efficiently.</strong></p>
-<p>https://gitlab.com/landimark/chatlandi.git</p><br>
+### 🙋‍♀️ **MUSI**
+*A platform offering comprehensive information on musicals, from reviews to recommendations.*  
+🔗 [GitHub Repository](https://github.com/khn5906/MUSI.git)  
+📄 [Presentation (PPT)](https://www.miricanvas.com/v/13ke016)
+
+### 🙋‍♀️ **chatLANDI**
+*A chatbot dedicated to handling public complaints efficiently.*  
+🔗 [GitLab Repository](https://gitlab.com/landimark/chatlandi.git)
+
 
 
 
